@@ -1,5 +1,5 @@
 {
-    "name": "padraic/phar-updater",
+    "name": "nanbando/phar-updater",
     "description": "A thing to make PHAR self-updating easy and secure.",
     "type": "library",
     "keywords": ["phar", "self-update", "update", "humbug"],
